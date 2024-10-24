@@ -1,4 +1,4 @@
-# Práctica 1. Primera clasificación de Productos Peligrosos Usando Deep Learning
+# Práctica 1. Primera clasificación de productos peligrosos usando Deep Learning
 
 ## Objetivo de la práctica:
 
