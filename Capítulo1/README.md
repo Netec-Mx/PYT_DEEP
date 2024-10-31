@@ -17,7 +17,7 @@ Al final de la actividad, serás capaz de:
 
 ## Instrucciones 
 
-### **CONFIGURACIÓN DEL ENTORNO DE TRABAJO**
+### Configuración del entorno de trabajo.
 
 Dentro de Google Drive, seleccionar `Nuevo`.
 
