@@ -1,4 +1,4 @@
-# Práctiac 2. Optimización de modelos de deep learning para clasificación de productos peligrosos
+# Práctica 2. Optimización de modelos de deep learning para clasificación de productos peligrosos
 
 ## Objetivo de la práctica:
 
