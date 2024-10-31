@@ -1,18 +1,22 @@
-# Optimización de Modelos de Deep Learning para Clasificación de Productos Peligrosos
+# Práctiac 2. Optimización de modelos de deep learning para clasificación de productos peligrosos
 
 ## Objetivo de la práctica:
-Al finalizar la actividad, serás capaz de entender el proceso de optimización de Deep Learning y realizar comparaciones efectivas entre diferentes enfoques.
 
-## Objetivo Visual 
+Al finalizar la actividad, serás capaz de:
+
+- Entender el proceso de optimización de Deep Learning y realizar comparaciones efectivas entre diferentes enfoques.
+
+## Objetivo visual:
 
 ![diagrama1](../images/tabla_cap_2.png)
 
 ## Duración aproximada:
+
 - 55 minutos.
 
-## Instrucciones 
+## Instrucciones:
 
-### **CONFIGURACIÓN DEL ENTORNO DE TRABAJO**
+### Configuración del entorno de trabajo.
 
 Dentro de Google Drive, seleccionar `Nuevo`
 
